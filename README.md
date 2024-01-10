@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Joy Opeyemi is a passionate software engineer with expertise in Fullstack development and a strong affinity for Python.
+Joy Opeyemi is a passionate software engineer specializing in Fullstack development with expertise in Python.
             
 
 ### Streetcred:
@@ -31,7 +31,7 @@ Joy Opeyemi is a passionate software engineer with expertise in Fullstack develo
             
 
 ### summary
-*Joy Opeyemi is a passionate software engineer with expertise in Fullstack development and a strong affinity for Python.*
+*Joy Opeyemi is a passionate software engineer specializing in Fullstack development with expertise in Python.*
 
             
 </div>
